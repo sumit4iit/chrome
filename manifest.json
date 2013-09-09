@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+
+  "name": "First chrome",
+  "description": "This extension is the first step towards building quora extension.",
+  "version": "1.0",
+
+  "permissions": [
+    "https://secure.flickr.com/"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
