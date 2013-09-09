@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
 
   "name": "First chrome",
   "description": "This extension is the first step towards building quora extension.",
